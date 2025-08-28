@@ -50,7 +50,7 @@ The app integrates with the **News API** to fetch real-time articles from reliab
 - **Frontend & Cross-Platform:** Flutter (Dart)  
 - **Backend & Data Source:** NewsAPI  
 - **Networking:** Dio package for API calls  
-- **State Management:** Provider / Riverpod / setState (depending on implementation)  
+- **State Management:** Provider  / setState (depending on implementation)  
 
 ---
 
